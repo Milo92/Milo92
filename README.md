@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milo92
 - 👀 I’m interested in music production, bartending, kickboxing, coding, reading
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, would ilke to learn GO in the future
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me; camilo.gidi@outlook.com
 
